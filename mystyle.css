@@ -1,4 +1,4 @@
-h1{colour: red;}
-h4[colour: pink;}
-th,td{border:groove red;}
-th.important{color:gold;}
+h1{color:red; }
+h4{color:blue; }
+th,td{border:dashed thick yellow;}
+th.important {color:gold;}
